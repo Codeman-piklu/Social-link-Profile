@@ -1,0 +1,106 @@
+
+body{
+    background-color:rgb(12, 7, 0);
+    margin: 0;
+    padding: 0;
+}
+.main{
+height: 750px;
+width:600px;
+color: rgb(237, 240, 240);
+background-color: rgba(46, 45, 45, 0.61);
+position: relative;
+margin-top: 180px;
+margin-left: 35%;
+border-radius: 10px;
+}
+.image{
+    position:relative;
+    top: 40px;
+    left:35%;
+
+}
+.image img{
+    border-radius: 250px;  
+}
+.child1{
+    position:absolute;
+    margin-top: 60px;
+    height: inherit;
+    width:inherit;
+}
+h3{
+    text-align:center;
+    font-size: 25px;
+    font-family:sans-serif;
+    color: rgb(236, 232, 232);
+}
+h5{
+    text-align: center;
+    margin-top:-10px;
+font-size: 20px;
+color: rgba(198, 224, 51, 0.863);
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.GitHub{
+    height:40px;
+    width: 60%;
+    background-color: rgb(60, 66, 66);
+    margin-left: 120px;
+    border-radius: 10px;
+    text-align: center; 
+}
+.GitHub p{
+    padding-top:10px;
+}
+.Front-end{
+    height:40px;
+    width: 60%;
+    background-color: rgb(60, 66, 66);
+    margin-left: 120px;
+    border-radius: 10px;
+    text-align: center; 
+}
+.Front-end p{
+    padding-top:10px;
+}
+.LinkedIn{
+    height:40px;
+    width: 60%;
+    background-color: rgb(60, 66, 66);
+    margin-left: 120px;
+    border-radius: 10px;
+    text-align: center; 
+}
+.LinkedIn p{
+    padding-top:10px;
+}
+.Twitter{
+    height:40px;
+    width: 60%;
+    background-color: rgb(60, 66, 66);
+    margin-left: 120px;
+    border-radius: 10px;
+    text-align: center; 
+}
+.Twitter p{
+    padding-top:10px;
+}
+.Instagram{
+    height:40px;
+    width: 60%;
+    background-color: rgb(60, 66, 66);
+    margin-left: 120px;
+    border-radius: 10px;
+    text-align: center; 
+    margin-bottom: 20px;
+}
+.Instagram p{
+    padding-top:10px;
+}
+
